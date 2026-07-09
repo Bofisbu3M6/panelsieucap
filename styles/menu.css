@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #FFFFFF;
-    color: #333333;
+    background-color: #363636;
+    color: #FFFFFF;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
     width: 380px; /* Slightly larger than viewport for overflow */
     height: 740px; /* Slightly larger than viewport for overflow */
     padding: 20px;
-    background-color: #000000;
+    background-color: #FFFFFF;
     border-radius: 15px; /* Adjusted for larger size */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     text-align: center;
