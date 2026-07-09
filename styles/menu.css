@@ -14,7 +14,7 @@ body {
     width: 380px; /* Slightly larger than viewport for overflow */
     height: 740px; /* Slightly larger than viewport for overflow */
     padding: 20px;
-    background-color: #FFFFFF;
+    background-color: #2F2F2F;
     border-radius: 15px; /* Adjusted for larger size */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     text-align: center;
