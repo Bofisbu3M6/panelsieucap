@@ -56,12 +56,12 @@ header {
 }
 
 header div h1 {
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     top: -28px;
     font-weight: bold;
     background: linear-gradient(90deg, black, White, WhiteSmoke, Gainsboro);
-    background-size: 400%;
+    background-size: 500%;
     -webkit-background-clip: text;
     color: transparent;
     animation: rainbow 4s ease infinite;
