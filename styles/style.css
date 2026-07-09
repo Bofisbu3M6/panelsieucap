@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #838383;
+    background-color: #1A1A1A;
     font-family: Arial, sans-serif;
 }
 
@@ -12,7 +12,7 @@ body {
     width: 350px;
     padding: 20px;
     height: 700px;
-    background-color: #1a2a44;
+    background-color: #555555;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     text-align: center;
